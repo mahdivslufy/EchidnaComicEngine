@@ -78,8 +78,6 @@ For each text occurrence, provide:
 - "id": integer starting from 1 in natural reading order
 - "type": "bubble" | "scream" | "narration" | "sfx" | "background"
 - "box_1000": [ymin, xmin, ymax, xmax] (normalized integers 0-1000 tightly bounding the text)
-- "speaker": character name if identifiable ("Rick", "Morty", "Jerry", "Beth", "Summer", "Narrator", "SFX", "Other")
-- "original_en": exact text transcribed in English
 - "translation_fa": culturally authentic, colloquial Iranian Persian translation.
   CRITICAL TRANSLATION RULES:
   * Rick: cynical, aggressive, uses harsh Iranian street slang, insults, and profanity without censorship.
