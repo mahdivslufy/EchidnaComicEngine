@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+*.cbz
+*.cbr
+*.zip
+raw/
+cleaned/
+translated/
+workdir/
+*.log
+.env
